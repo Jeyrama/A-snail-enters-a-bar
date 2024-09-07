@@ -31,3 +31,6 @@ Examples:
     Increase rate of the rubber band: z = 0.05 units/minute
     Outcome: False (The snail will not be able to reach the end within one year.)
 */
+
+
+// Solution
