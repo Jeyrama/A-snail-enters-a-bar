@@ -63,7 +63,7 @@ function canSnailReachEnd(length, speed, lengthIncreases) {
     // create a new length variable which will be increased every minute
     let newLength = length;
     // calculate the newLength with the finalIncreases to know whether or not snail makes it or not
-    // if dthe newLength ever reach 0, snail made it
+    // if the newLength ever reach 0, snail made it
     // if the newLength never reach 0 within a year, the snail didn't make it
     while(newLength > 0){
       // if the newLength never reach 0 and the minutes > minutesInAYear, break the loop, snail didn't make it
